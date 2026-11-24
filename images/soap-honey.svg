@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 520">
+<defs><linearGradient id="soap" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#fff8e8"/><stop offset="1" stop-color="#e8c994"/></linearGradient><filter id="shadow"><feGaussianBlur stdDeviation="13"/></filter></defs>
+<ellipse cx="250" cy="452" rx="125" ry="22" fill="#71604a" opacity=".17" filter="url(#shadow)"/>
+<g transform="rotate(7 250 260)"><rect x="118" y="92" width="264" height="335" rx="52" fill="url(#soap)" stroke="#d5b986" stroke-width="4"/><rect x="143" y="116" width="214" height="285" rx="38" fill="none" stroke="#fff" stroke-width="3" opacity=".8"/><path d="M158 290 Q250 240 342 290 L342 362 Q250 405 158 362Z" fill="#e9cf9f" opacity=".65"/><text x="250" y="215" text-anchor="middle" font-family="Georgia" font-size="29" fill="#987346" letter-spacing="3">MELLOW</text><text x="250" y="247" text-anchor="middle" font-family="Georgia" font-size="18" fill="#a88659" letter-spacing="5">SOAP</text><text x="250" y="328" text-anchor="middle" font-family="Arial" font-size="15" fill="#99764c" letter-spacing="2">HONEY GLOW</text><circle cx="250" cy="150" r="8" fill="#d7a94f"/></g>
+<path d="M80 390 Q35 335 68 290 Q118 325 80 390 M415 170 Q462 125 448 82 Q393 111 415 170" fill="#b4a47b" opacity=".55"/>
+</svg>
